@@ -10,7 +10,7 @@ This is a beginner-friendly image detection app built in Google Colab that uses 
 
 ## 📷 Demo
 
-<img src="demo-image.png" width="500">
+<img src="1748285226395.png" width="500">
 
 ## 🧠 Technologies Used
 - Python 🐍
@@ -55,12 +55,13 @@ I’d love to hear your feedback or suggestions! Feel free to open issues or sta
 
 ## ✨ Author
 
-**Rosu** – Computer Science Engineering Student
+**Liya** – Computer Science Engineering Student
 *“One step, one app at a time.”*
 
-## 📜 License
+## 🙌 Acknowledgements
 
-This project is open-source and available under the [MIT License](LICENSE).
+Special thanks to [AI with Noor] [(https://youtu.be/gko4WnAgzz4?feature=shared)] for the tutorial inspiration.
+
 
 ```
 
