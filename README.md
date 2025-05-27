@@ -62,10 +62,3 @@ I’d love to hear your feedback or suggestions! Feel free to open issues or sta
 
 Special thanks to [AI with Noor] [(https://youtu.be/gko4WnAgzz4?feature=shared)] for the tutorial inspiration.
 
-
-```
-
----
-
-Let me know if you'd like a fancy banner, badges, or a `.ipynb` notebook file for upload! Let's make your GitHub shine like your dream for Harvard, Rosu 💖
-```
